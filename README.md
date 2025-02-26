@@ -53,3 +53,8 @@
 #### 3-Use the edit button to modify a task.
 
 #### 4-Click the delete button to remove a task.
+
+
+![Image](https://github.com/user-attachments/assets/ede274c8-e68c-4cba-a93e-c92343a0e7c6)
+
+![Image](https://github.com/user-attachments/assets/00494f4c-7518-4c42-bf82-6b40e30dd2e9)
