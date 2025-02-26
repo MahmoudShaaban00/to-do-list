@@ -1,55 +1,55 @@
 # To-Do List App
 
-A simple and efficient To-Do List application built with React and Redux Toolkit for state management.
+#### A simple and efficient To-Do List application built with React and Redux Toolkit for state management.
 
 
 ## Features
 
-Add new tasks with ease
+#### 1-Add new tasks with ease
 
-Mark tasks as completed or pending
+#### 2-Mark tasks as completed or pending
 
-Edit or delete tasks
+#### 3-Edit or delete tasks
 
-Persist tasks using local storage
+#### 4-Persist tasks using local storage
 
-Responsive design with Tailwind CSS
+#### 5-Responsive design with Tailwind CSS
 
 
 ## Technologies Used
 
-React.js
+##### 1-React.js
 
-Redux Toolkit
+#### 2-Redux Toolkit
 
-Tailwind CSS
+#### 3-Tailwind CSS
 
 
 ## Installation
 
-Clone the repository:
+#### 1-Clone the repository:
 
-git clone https://github.com/your-username/todo-list-redux.git
+#### 2-git clone https://github.com/your-username/todo-list-redux.git
 
-Navigate to the project folder:
+#### 3-Navigate to the project folder:
 
-cd todo-list-redux
+#### 4-cd todo-list-redux
 
-Install dependencies:
+#### 5-Install dependencies:
 
-npm install
+#### 6-npm install
 
-Start the development server:
+#### 7-Start the development server:
 
-npm start
+#### 8-npm start
 
 
 ## Usage
 
-Enter a task in the input field and press "Add Task."
+#### 1-Enter a task in the input field and press "Add Task."
 
-Click on a task to mark it as completed or pending.
+#### 2-Click on a task to mark it as completed or pending.
 
-Use the edit button to modify a task.
+#### 3-Use the edit button to modify a task.
 
-Click the delete button to remove a task.
+#### 4-Click the delete button to remove a task.
